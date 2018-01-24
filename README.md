@@ -1,1 +1,3 @@
-# HeadFirstJava2ndEdition
+# Head First Java (2nd Ed.)
+
+
